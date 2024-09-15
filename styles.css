@@ -21,6 +21,10 @@ li {
     text-align: center;
 }
 
-td {
-    text-align: center;
+h1 {
+    color: black
+}
+
+h2 {
+    color: rgb(106, 3, 119);
 }
